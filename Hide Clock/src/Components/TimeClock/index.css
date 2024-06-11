@@ -1,0 +1,24 @@
+.bg-container {
+  background-color: #395b64;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  border: 2px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  font-size: 34px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.time-text {
+  color: white;
+  font-size: 50px;
+  margin: 20px;
+}
